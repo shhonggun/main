@@ -1,5 +1,9 @@
+public class HelloJava {
 
+    public static void main() {
 
-commit 시험중입니다.
+        System.out.println("테스트");
 
-인텔리제이 1차 시험중
+    }
+
+}
